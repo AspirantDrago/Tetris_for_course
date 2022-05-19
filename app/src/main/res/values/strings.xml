@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ТЕТРИС</string>
+    <string name="high_score">Рекорд</string>
+    <string name="high_score_default">Лучший результат: 0</string>
+    <string name="new_game">Новая игра</string>
+    <string name="reset_score">Сбросить результат</string>
+    <string name="exit">Выход</string>
+    <string name="current_score">Результат</string>
+    <string name="btn_restart">Рестарт</string>
+</resources>
